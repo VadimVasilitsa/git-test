@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -13,8 +13,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -25,12 +25,12 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: 2;
 }
 ol, ul {
 	list-style: none;
@@ -71,7 +71,7 @@ body {
 	padding:10px 0 10px 0;}
 .link-menu li {
 	float:left;
-	
+
 ;
 	}
 li:nth-child(4) {
@@ -101,7 +101,7 @@ li:nth-child(4) {
 	height:40px;
 	}
 
-	
+
 .registration-menu-link {
 	line-height:40px;
 	color:#ffffff;
@@ -122,8 +122,8 @@ li:nth-child(4) {
 	margin: 0 3px;
 	top: 6px;
 }
-	
-	
+
+
 .top-auth {
 	margin-top:1px;
 	text-align:center;
@@ -151,7 +151,7 @@ li:nth-child(4) {
 .text {
 	position:relative;
 	padding-top:20px;
-	
+
 	font-family:arial;
 	font-size:13px;
 	color:#505055;
@@ -292,7 +292,7 @@ li:nth-child(4) {
 	text-decoration:none;
 	padding:13px 13px;
 	color:#505055;
-}	
+}
 li:nth-child(4) {
 	border:none;
 	background:none;
@@ -303,12 +303,12 @@ li:nth-child(3){
 	padding:0 4px;}
 li:nth-child(5){
 	padding:0 4px;}
- 
+
 .blok-page1 {
 	width:100%;
 	height:205px;
 	background:#fff;
-	
+
 	}
 .page1 {
 	width:1044px;
